@@ -1,0 +1,29 @@
+Le Guide de notre plate-forme
+
+*Les Membres du Projet
+
+-DIARRASSOUBA Ibrahim
+-DOUEU Zlando Emmanuel
+-EDI N'gbocho Yves Fernand
+
+
+*Dans la page d'accueil le bouton admin redirige vers login adminstrateur
+
+email : appept@gmail.com
+password : 12345
+
+*Et après il sera redirigé vers dashbord administrateur
+
+
+*Le bouton login permet à un étudiant de se connecter ou créer un compte
+
+*Les étudiants dans notre base de donnée
+Utilisation de Xampp server
+
+1)Enseignant
+email : itachi@gmail.com
+password: 12345
+
+2)Etudiant
+matricule : 22INP00101
+password: 00101
